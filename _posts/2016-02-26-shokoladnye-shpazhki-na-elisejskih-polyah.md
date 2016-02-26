@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Как на холодных Елисейских полях я согрелся горячим шоколадом с фруктовыми шпажками
-datePublished: '2016-02-26T03:32:30.649Z'
-dateModified: '2016-02-26T03:30:41.200Z'
+datePublished: '2016-02-26T03:36:42.993Z'
+dateModified: '2016-02-26T03:36:41.701Z'
 title: Шоколадные Шпажки на Елисейских Полях
 author: []
 sourcePath: _posts/2016-02-26-shokoladnye-shpazhki-na-elisejskih-polyah.md
@@ -46,3 +46,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65990094-e80d-4cba-869a-8069582c6abb.jpg)
 
 Brochette de Fruits- Шоколадно- Фруктовые Шпажки- мягко перекатил я по языком по небу несколько грассирующих слогов и решительно направился к прилавку.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d47520-3c99-43de-9462-4a0a33b721ca.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e90736d5-9b75-403f-a264-3681cf5a89c5.png)
