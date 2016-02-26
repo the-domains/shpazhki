@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Как на холодных Елисейских полях я согрелся горячим шоколадом с фруктовыми шпажками
-datePublished: '2016-02-26T03:27:23.507Z'
-dateModified: '2016-02-26T03:27:07.075Z'
+datePublished: '2016-02-26T03:32:30.649Z'
+dateModified: '2016-02-26T03:30:41.200Z'
 title: Шоколадные Шпажки на Елисейских Полях
 author: []
 sourcePath: _posts/2016-02-26-shokoladnye-shpazhki-na-elisejskih-polyah.md
