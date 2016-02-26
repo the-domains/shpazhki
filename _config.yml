@@ -1,8 +1,7 @@
 name: shpazhki
 favicon: null
-layout_spectrum: 0.32353
-typography_spectrum: 0.14706
-title: shapzhki
+layout_spectrum: 0.18639049981720746
+typography_spectrum: 0.9019782524555922
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#590104'
-    - '#f90d1b'
-    - '#299e3e'
-    - '#f9db3a'
-    - '#8b6b6c'
-  brandStrength: 0.6875
-  lightness: 0.75
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.887536184862256
+  lightness: 0.040871040895581245
+  saturation: 0.9377578524872661
+  rhythmicContrast: 0.41007081675343215
 purpose: []
