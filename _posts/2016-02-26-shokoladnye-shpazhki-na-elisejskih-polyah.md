@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: Как на холодных Елисейских полях я согрелся горячим шоколадом с фруктовыми шпажками
-datePublished: '2016-02-26T03:11:17.397Z'
-dateModified: '2016-02-26T03:11:05.129Z'
+datePublished: '2016-02-26T03:27:23.507Z'
+dateModified: '2016-02-26T03:27:07.075Z'
 title: Шоколадные Шпажки на Елисейских Полях
 author: []
+sourcePath: _posts/2016-02-26-shokoladnye-shpazhki-na-elisejskih-polyah.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-shokoladnye-shpazhki-na-elisejskih-polyah.md
-published: true
 url: shokoladnye-shpazhki-na-elisejskih-polyah/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16b37ad2-2391-4335-8cfa-4256900f6db4.png)
+
 В этом январе поля были особенно мокрыми и стылыми, но все равно оставались Елисейскими
 
 Холодные ветер силился распахнуть застегнутый доверху воротник пальто, капли непрекращающейся измороси оседали на стеклах очков и превращали череду подвешенных к убегающим к триумфальной арке деревьев огоньков в расплывчатые кляксы, пляшущие в ритме вращения педалей моего велосипеда
